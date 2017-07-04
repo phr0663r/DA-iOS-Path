@@ -10,6 +10,7 @@ Bonjour à tous ! Et bienvenue dans ce cours sur la programmation iOS ! Ensemble
 
 Vous êtes prêts ? Alors allons-y !
 
+<!-- klsjdhflsjkf -->
 #### OpenQuizz
 
 Dans ce cours, nous allons donc réaliser l'application OpenQuizz. Et sans plus de suspens, laissez moi vous la montrer :
